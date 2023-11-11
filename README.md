@@ -15,13 +15,13 @@ Para desarrollar seguir estos pasos:
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/arnaldotorrealba/DesafioLatam-21.git
+git clone https://github.com/arnaldotorrealba/DesafioLatam-22.git
 ```
 
 2. Navegar a la carpeta
 
 ```bash
-cd DesafioLatam-19
+cd DesafioLatam-22
 ```
 
 3. Instalar dependencias o paquetes de node
